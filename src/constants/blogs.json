@@ -1,0 +1,53 @@
+{
+	"status": "success",
+	"message": "Data successfully retrieved",
+	"data": [
+		{
+			"id": 1,
+			"entityType": "blogs",
+			"title": "10 Tips to Grow Your Blog Audience",
+			"text": "Building an engaged audience takes time and consistency. Leveraging social media, guest blogging, and SEO optimization can significantly boost your blog's reach.",
+			"tags": [
+				{ "id": 101, "name": "Blogging", "color": "#f39c12", "createdAt": "2024-03-01T10:00:00Z" },
+				{ "id": 102, "name": "Marketing", "color": "#27ae60", "createdAt": "2024-03-05T09:15:00Z" }
+			]
+		},
+		{
+			"id": 2,
+			"entityType": "blogs",
+			"title": "How to Monetize Your Blog Effectively",
+			"text": "Monetizing a blog requires strategic planning. Ad placements, affiliate marketing, and digital products are some of the most profitable methods.",
+			"tags": [
+				{ "id": 103, "name": "Monetization", "color": "#8e44ad", "createdAt": "2024-03-10T12:30:00Z" },
+				{ "id": 104, "name": "Affiliate Marketing", "color": "#e67e22", "createdAt": "2024-03-12T14:45:00Z" }
+			]
+		},
+		{
+			"id": 3,
+			"entityType": "blogs",
+			"title": "The Importance of SEO for Blogging Success",
+			"text": "SEO is crucial for driving organic traffic. Writing high-quality, keyword-rich content and optimizing meta descriptions can enhance your blog’s visibility.",
+			"tags": [
+				{ "id": 105, "name": "SEO", "color": "#2ecc71", "createdAt": "2024-02-28T08:20:00Z" },
+				{ "id": 106, "name": "Content Marketing", "color": "#3498db", "createdAt": "2024-02-25T15:10:00Z" }
+			]
+		},
+		{
+			"id": 4,
+			"entityType": "blogs",
+			"title": "Writing Engaging Blog Posts: A Beginner’s Guide",
+			"text": "An engaging blog post combines storytelling, clarity, and actionable insights. Using visuals and proper formatting improves readability.",
+			"tags": [
+				{ "id": 107, "name": "Writing", "color": "#e74c3c", "createdAt": "2024-02-15T18:00:00Z" },
+				{ "id": 108, "name": "Storytelling", "color": "#f1c40f", "createdAt": "2024-02-17T20:30:00Z" }
+			]
+		},
+		{
+			"id": 5,
+			"entityType": "blogs",
+			"title": "How to Create a Content Calendar for Your Blog",
+			"text": "A content calendar helps maintain consistency. Planning posts in advance and setting deadlines ensures a steady publishing schedule.",
+			"tags": []
+		}
+	]
+}

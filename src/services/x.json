@@ -1,0 +1,11 @@
+{
+	"status": "success",
+	"message": "Tag successfully fetched",
+	"data": [
+		{ "id": "1", "name": "Technology", "color": "#FF5733" },
+		{ "id": "2", "name": "Science", "color": "#33FF57" },
+		{ "id": "3", "name": "Art", "color": "#5733FF" },
+		{ "id": "4", "name": "Music", "color": "#FF5733" },
+		{ "id": "5", "name": "Sports", "color": "#33FF57" }
+	]
+}

@@ -1,0 +1,126 @@
+{
+	"status": "success",
+	"message": "Tags retrieved successfully",
+	"data": [
+		{
+			"id": 1,
+			"name": "Technology",
+			"color": "#c849c8",
+			"createdAt": "2024-03-21T10:00:00Z"
+		},
+		{
+			"id": 2,
+			"name": "Finance",
+			"color": "#7ccd9b",
+			"createdAt": "2024-03-21T10:05:00Z"
+		},
+		{
+			"id": 3,
+			"name": "Uncategorized",
+			"color": "#1cf470",
+			"createdAt": "2024-03-21T10:10:00Z"
+		},
+		{
+			"id": 4,
+			"name": "Programming",
+			"color": "#74bd3f",
+			"createdAt": "2024-03-21T10:15:00Z"
+		},
+		{
+			"id": 5,
+			"name": "Artificial Intelligence",
+			"color": "#94ef61",
+			"createdAt": "2024-03-21T10:20:00Z"
+		},
+		{
+			"id": 6,
+			"name": "Machine Learning",
+			"color": "#65fb9b",
+			"createdAt": "2024-03-21T10:25:00Z"
+		},
+		{
+			"id": 7,
+			"name": "Personal Development",
+			"color": "#aac69e",
+			"createdAt": "2024-03-21T10:30:00Z"
+		},
+		{
+			"id": 8,
+			"name": "Science",
+			"color": "#7540d4",
+			"createdAt": "2024-03-21T10:35:00Z"
+		},
+		{
+			"id": 9,
+			"name": "Health & Wellness",
+			"color": "#bea689",
+			"createdAt": "2024-03-21T10:40:00Z"
+		},
+		{
+			"id": 10,
+			"name": "Education",
+			"color": "#6c619d",
+			"createdAt": "2024-03-21T10:45:00Z"
+		},
+		{
+			"id": 11,
+			"name": "Uncategorized",
+			"color": "#cf103d",
+			"createdAt": "2024-03-21T10:50:00Z"
+		},
+		{
+			"id": 12,
+			"name": "Business",
+			"color": "#c76405",
+			"createdAt": "2024-03-21T10:55:00Z"
+		},
+		{
+			"id": 13,
+			"name": "Self-Help",
+			"color": "#164d6a",
+			"createdAt": "2024-03-21T11:00:00Z"
+		},
+		{
+			"id": 14,
+			"name": "Biography",
+			"color": "#40bc33",
+			"createdAt": "2024-03-21T11:05:00Z"
+		},
+		{
+			"id": 15,
+			"name": "History",
+			"color": "#759893",
+			"createdAt": "2024-03-21T11:10:00Z"
+		},
+		{
+			"id": 16,
+			"name": "Philosophy",
+			"color": "#e21168",
+			"createdAt": "2024-03-21T11:15:00Z"
+		},
+		{
+			"id": 17,
+			"name": "Psychology",
+			"color": "#16bf22",
+			"createdAt": "2024-03-21T11:20:00Z"
+		},
+		{
+			"id": 18,
+			"name": "Literature",
+			"color": "#f0e079",
+			"createdAt": "2024-03-21T11:25:00Z"
+		},
+		{
+			"id": 19,
+			"name": "Fiction",
+			"color": "#7901aa",
+			"createdAt": "2024-03-21T11:30:00Z"
+		},
+		{
+			"id": 20,
+			"name": "Non-Fiction",
+			"color": "#23cfbd",
+			"createdAt": "2024-03-21T11:35:00Z"
+		}
+	]
+}

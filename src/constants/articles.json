@@ -1,0 +1,47 @@
+{
+	"status": "success",
+	"message": "Data successfully retrieved",
+	"data": [
+		{
+			"id": 6,
+			"entityType": "articles",
+			"title": "The Role of AI in Modern Healthcare",
+			"text": "AI is transforming healthcare by improving diagnostics, personalizing treatment plans, and enhancing operational efficiency in hospitals.",
+			"tags": []
+		},
+		{
+			"id": 7,
+			"entityType": "articles",
+			"title": "Blockchain and Its Impact on Cybersecurity",
+			"text": "Blockchain technology enhances cybersecurity by decentralizing data storage and improving authentication methods.",
+			"tags": [{ "id": 203, "name": "Blockchain", "color": "#8e44ad", "createdAt": "2024-01-28T09:20:00Z" }]
+		},
+		{
+			"id": 8,
+			"entityType": "articles",
+			"title": "5G Technology: Revolutionizing Connectivity",
+			"text": "5G is set to revolutionize industries by enabling ultra-fast internet speeds, low latency, and improved connectivity across smart devices.",
+			"tags": [
+				{ "id": 205, "name": "5G", "color": "#2ecc71", "createdAt": "2024-02-05T11:00:00Z" },
+				{ "id": 206, "name": "Telecommunications", "color": "#e67e22", "createdAt": "2024-02-07T15:25:00Z" }
+			]
+		},
+		{
+			"id": 9,
+			"entityType": "articles",
+			"title": "How Quantum Computing Could Change the World",
+			"text": "Quantum computing has the potential to solve complex problems beyond classical computers, impacting cryptography, materials science, and AI.",
+			"tags": [
+				{ "id": 207, "name": "Quantum Computing", "color": "#9b59b6", "createdAt": "2024-03-01T13:40:00Z" },
+				{ "id": 208, "name": "Future Tech", "color": "#1abc9c", "createdAt": "2024-03-02T16:30:00Z" }
+			]
+		},
+		{
+			"id": 10,
+			"entityType": "articles",
+			"title": "The Future of Electric Vehicles and Sustainability",
+			"text": "Electric vehicles are driving the future of sustainable transportation, reducing carbon emissions and advancing battery technology innovations.",
+			"tags": [{ "id": 210, "name": "Sustainability", "color": "#27ae60", "createdAt": "2024-02-23T10:15:00Z" }]
+		}
+	]
+}
